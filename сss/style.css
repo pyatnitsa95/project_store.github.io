@@ -1228,9 +1228,9 @@ color: #FFFFFF;
     line-height: 100%;
     color: #303030;
 }
-.tools:hover{
+/* .tools:hover{
     color: #979797;
-}
+} */
 .tools__save {
     display: flex;
     margin: 40px 0px 18px 0px;
@@ -1243,10 +1243,10 @@ color: #FFFFFF;
     height: 24px;
     margin: 0px 8px 0px 0px;
 }
-.tools__save-img:hover {
+/* .tools__save-img:hover {
     width: 100px;
     height: 100px;
-}
+} */
 
 .tools__compare {
     display: flex;
